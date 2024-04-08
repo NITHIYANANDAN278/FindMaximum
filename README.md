@@ -9,6 +9,8 @@ To write a program to find the maximum of a list of numbers.
 2.	Use the sort() function or max() function or use the for loop to find the maximum mark.
 3.	Return the maximum value
 ## Program:
+developed by: NITHIYANANDAN N
+Register number:212222230099
 
 i)	# To find the maximum of marks using the list method sort.
 ```Python
@@ -47,9 +49,11 @@ def max_marks(list1):
 
 
 ## Output:
-![Screenshot (27)](https://github.com/NITHIYANANDAN278/FindMaximum/assets/121784636/9d0b51dd-d8f9-4458-8a88-87c7e09cc690)
-![Screenshot (28)](https://github.com/NITHIYANANDAN278/FindMaximum/assets/121784636/e97c51c8-50d7-46b8-9439-8e9158cd4f0d)
-![Screenshot (29)](https://github.com/NITHIYANANDAN278/FindMaximum/assets/121784636/68c55ccb-76b1-4d65-8ade-e84020039bb4)
+![Screenshot 2024-04-08 144211](https://github.com/NITHIYANANDAN278/FindMaximum/assets/121784636/2ed04dee-e0e8-4d94-a13f-ca3fbe7c23cc)
+![Screenshot 2024-04-08 144258](https://github.com/NITHIYANANDAN278/FindMaximum/assets/121784636/1b26b3fc-c6c4-4ac4-b9d3-ad3b1ce87568)
+![Screenshot 2024-04-08 144409](https://github.com/NITHIYANANDAN278/FindMaximum/assets/121784636/98463697-9f99-4126-8359-693618db0289)
+
+
 
 
 
